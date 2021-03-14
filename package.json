@@ -11,7 +11,7 @@
     "build-storybook": "build-storybook"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arthur Vasilev <l0v4iy@yandex.ru>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.5",
